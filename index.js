@@ -85,14 +85,18 @@ var apiUrl = 'https://api.api-ninjas.com/v1/dogs?name=';
             list15,list16,list17,list18,list19,list20)       // appends to ul element
          console.log(list)
         
-         $("div.input-here").append(titleData,image,ratings,unordered) // appends all to div element
+       var storeData =  $("div.input-here").append(titleData,image,ratings,unordered) // appends all to div element
+       localStorage.setItem("name","storeData")
+      
 
          });
-           
+         
           
       })
-   
+      
 })
+
+
 
 // Time API
 
