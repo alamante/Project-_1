@@ -1,0 +1,95 @@
+.main-container{
+    width: 80vw;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.time_container{
+display: flex;
+flex-direction: column;
+}
+.date, .time{
+    font-weight: bold;
+    color: blue;
+}
+
+.container{
+    max-width: 900px;
+    margin: auto;
+   position: absolute;
+   top: 20%;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+
+
+.search{
+    width:40vw;
+    height: 6vh;
+    border-radius: 20px;
+    
+   
+}
+
+.dogs{
+    text-align: center;
+    font-family: 'Tilt Warp', cursive;
+    color: #FFAC1C;
+}
+
+
+.btn-div{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    margin-bottom: 5%;
+    
+}
+
+.btn,.btn-clear{
+    width: 100%;
+    margin-top: 10px;
+    height: 30px;
+    margin: 5px;
+    font-size: 1.0em;
+}
+
+
+::placeholder{
+    text-align: center;
+    color:blue
+
+}
+
+.hide-it{
+    display: none;
+}
+
+img{
+    width:100%;
+    height: auto;
+}
+
+.input-here{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    margin-bottom: 20%;
+}
+
+ul {
+    display: inline-block;
+    display: inline;
+    zoom: 1
+}
+
+ul{
+    font-family: 'Circular-Loom';
+}
+
