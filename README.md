@@ -26,7 +26,7 @@ If you don't see the information you're looking for, try searching again using d
 
 ## DEMO
 
-![A user clicks the search button and information is displayed.](/project3/images/demo.gif)
+![A user clicks the search button and information is displayed.](./images/demo.gif)
 
 
 ## TOOLS USED
@@ -37,4 +37,7 @@ CSS
 [DOG API](https://api-ninjas.com/api)
 
 ## DEPLOYMENT LINK
-https://alamante.github.io/Daily_Planner_App/
+https://alamante.github.io/Project-_1/
+
+## video presentation link
+https://www.veed.io/view/ecfcebf8-819e-41e7-9282-3b5ea960464f?panel=share
